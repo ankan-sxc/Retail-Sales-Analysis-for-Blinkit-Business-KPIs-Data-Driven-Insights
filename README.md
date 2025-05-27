@@ -38,13 +38,22 @@ Includes:
 ## 📊 Sample KPI Visualizations
 
 ### ✅ Total Sales by Product Category
-![Total Sales by Category](visualizations/kpi1_total_sales.png)
+<img src="https://raw.githubusercontent.com/ankan-sxc/Retail-Sales-Analysis-for-Blinkit-Business-KPIs-Data-Driven-Insights/main/visualizations/Screenshot%20(286).png" width="600"/>
+
+
+
 
 ### ✅ Sales by Outlet Type
-![Outlet Type Comparison](visualizations/kpi5_outlet_type.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankan-sxc/Retail-Sales-Analysis-for-Blinkit-Business-KPIs-Data-Driven-Insights/main/visualizations/Screenshot%20(286).png" width="600"/>
+</p>
+
 
 ### ✅ Visibility vs. Sales Correlation
-![Visibility vs Sales](visualizations/kpi13_visibility_vs_sales.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankan-sxc/Retail-Sales-Analysis-for-Blinkit-Business-KPIs-Data-Driven-Insights/main/visualizations/Screenshot%20(287).png" width="600"/>
+</p>
+
 
 > 🔍 Full set of 15 KPI visuals available in [`visualizations/`](visualizations)
 
