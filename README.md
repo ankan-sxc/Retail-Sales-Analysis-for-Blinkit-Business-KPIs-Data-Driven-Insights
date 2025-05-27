@@ -45,7 +45,7 @@ Includes:
 
 ### ✅ Sales by Outlet Type
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankan-sxc/Retail-Sales-Analysis-for-Blinkit-Business-KPIs-Data-Driven-Insights/main/visualizations/Screenshot%20(286).png" width="600"/>
+  <img src="https://raw.githubusercontent.com/ankan-sxc/Retail-Sales-Analysis-for-Blinkit-Business-KPIs-Data-Driven-Insights/main/visualizations/Screenshot%20(290).png" width="600"/>
 </p>
 
 
